@@ -4,8 +4,8 @@ This repository contains the lecture notes and animations on introductory real a
 
 ## Topics covered: 
 ### 1. Why do we need real numbers:
-![anim1](real-numbers/animation3.mp4)
-[Lecture notes](real-numbers/Real_Numbers.pdf)
+![anim1](real-numbers/Animation3.mp4)
+[Lecture notes](real-numbers/real-numbers.pdf)
 
 
 ### 2. Number Systems:
