@@ -12,12 +12,12 @@ This repository contains the lecture notes and animations on introductory real a
 ![anim1](real-numbers/animation3.mp4)
 [Lecture notes](real-numbers/Real_Numbers.pdf)
 
-### 3. Ordered Sets:
+### 3. Axiomatic Construction of Real Numbers:
 ![anim1](real-numbers/animation3.mp4)
 [Lecture notes](real-numbers/Real_Numbers.pdf)
 
 
-### 4. Least Upper Bounds:
+### 4. Axiom of Completeness:
 ![anim1](real-numbers/animation3.mp4)
 [Lecture notes](real-numbers/Real_Numbers.pdf)
 
@@ -25,6 +25,6 @@ This repository contains the lecture notes and animations on introductory real a
 ![anim1](real-numbers/animation3.mp4)
 [Lecture notes](real-numbers/Real_Numbers.pdf)
 
-### 6. Line and the Plane:
+### 6. Euclidean Space:
 ![anim1](real-numbers/animation3.mp4)
 [Lecture notes](real-numbers/Real_Numbers.pdf)
