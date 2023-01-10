@@ -4,27 +4,27 @@ This repository contains the lecture notes and animations on introductory real a
 
 ## Topics covered: 
 ### 1. Why do we need real numbers:
-![anim1](real-numbers/Animation3.mp4)
+![anim1](real-numbers/real-numbers-anim.gif)
 [Lecture notes](real-numbers/real-numbers.pdf)
 
 
 ### 2. Number Systems:
-![anim1](real-numbers/animation3.mp4)
-[Lecture notes](real-numbers/Real_Numbers.pdf)
+![anim1](number-systems/number-systems-anim.gif)
+[Lecture notes](rnumber-systems/number-systems.pdf)
 
-### 3. Axiomatic Construction of Real Numbers:
-![anim1](real-numbers/animation3.mp4)
-[Lecture notes](real-numbers/Real_Numbers.pdf)
+### 3. Ordered Sets and Fields:
+![anim1](ordered-sets/ordered-sets.gif)
+[Lecture notes](ordered-sets/axiomatic-cons.pdf)
 
 
 ### 4. Axiom of Completeness:
-![anim1](real-numbers/animation3.mp4)
-[Lecture notes](real-numbers/Real_Numbers.pdf)
+![anim1](axiom-of-completeness/least-up-bound.gif)
+[Lecture notes](axiom-of-completeness/axiom-of-completeness.pdf)
 
 ### 5. Archimidean Property:
-![anim1](real-numbers/animation3.mp4)
-[Lecture notes](real-numbers/Real_Numbers.pdf)
+![anim1](least-upper-bounds/lub2.gif)
+[Lecture notes](archimidean-property/archimidean-property.pdf)
 
 ### 6. Euclidean Space:
-![anim1](real-numbers/animation3.mp4)
-[Lecture notes](real-numbers/Real_Numbers.pdf)
+![anim1](eucldean-space/cauchyS.gif)
+[Lecture notes](eucldean-space/eucldean-space.pdf)
