@@ -22,9 +22,9 @@ This repository contains the lecture notes and animations on introductory real a
 [Lecture notes](axiom-of-completeness/axiom-of-completeness.pdf)
 
 ### 5. Archimedean Property:
-![anim1](least-upper-bounds/lub2.gif)
+![anim1](axiom-of-completeness/lub2.gif)
 [Lecture notes](archimedean-property/archimedean-property.pdf)
 
 ### 6. Euclidean Space:
-![anim1](eucldean-space/cauchyS.gif)
-[Lecture notes](eucldean-space/eucldean-space.pdf)
+![anim1](euclidean-space/cauchyS.gif)
+[Lecture notes](euclidean-space/euclidean.pdf)
